@@ -3,14 +3,14 @@
   <img src="./public/images/logo.png" alt="Logo do Sporify" width="200">
 <br>
 <br> 
- Spotify Clone
+ Spotify UI Clone
 </h1>
 
 <br>
 
 ##  **<h2  align="center"> Aplicação front end 📟 👨‍💻 </h2>**
 
-## <p> <h2 align="center">Um clone da landing page do [Sportify](https://www.spotify.com/br/) utilizando [TailwindCSS](https://tailwindcss.com/docs)</h2> </p>
+## <p> <h2 align="center">Um clone da landing page do [Spotify](https://www.spotify.com/br/) utilizando [TailwindCSS](https://tailwindcss.com/docs)</h2> </p>
 
 # **Site oficial do Spotify** 💻
 
