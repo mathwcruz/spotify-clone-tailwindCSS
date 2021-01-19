@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="pt_BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Spotify Clone</title>
+
+    <script
+      src="https://kit.fontawesome.com/64d58efce2.js"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="icon" href="../images/icon.png" />
+    <link rel="stylesheet" href="../assets/styles.css" />
+  </head>
+  <body class="box-border font-roboto">
+    <navbar class="fixed top-0 flex justify-center w-full text-white bg-black">
+      <div class="flex items-center justify-between w-3/5 py-5">
+        <img class="logo" src="../images/logo.png" alt="Logo do Spotify" />
+        <ul class="flex">
+          <li class="li-main">Premium</li>
+          <li class="li-main">Suporte</li>
+          <li class="li-main">Baixar</li>
+          <li class="border-l border-white text-p-footer li-main">
+            Inscrever-se
+          </li>
+          <li class="text-p-footer li-main">Entrar</li>
+        </ul>
+      </div>
+    </navbar>
+
+    <main>
+      <div
+        id="showcase"
+        class="flex items-center justify-center h-screen leading-none text-white bg-blueTextBg"
+      >
+        <div class="flex flex-col items-center">
+          <h2
+            class="w-3/5 font-semibold text-center text-large text-hoverTextNav"
+          >
+            Escutar muda tudo
+          </h2>
+          <p class="mx-0 my-10 text-lg font-semibold text-hoverTextNav">
+            Milhões de músicas e podcasts para explorar. E nem precisa de cartão
+            de crédito.
+          </p>
+          <button
+            class="px-12 py-3 mt-3 text-sm font-bold uppercase transition-all duration-150 ease-in-out rounded-extra bg-hoverTextNav hover:bg-white text-blueTextBg"
+          >
+            Obtenha o Spotify Free
+          </button>
+        </div>
+      </div>
+    </main>
+
+    <footer class="px-0 py-20 text-white bg-black">
+      <div class="flex justify-between w-3/5 m-auto">
+        <img
+          class="-mt-3 logo"
+          src="../images/logo.png"
+          alt="Logo do Spotify"
+        />
+        <ul class="ul-footer">
+          <p class="p-footer">Empresa</p>
+          <li class="li-footer">Sobre</li>
+          <li class="li-footer">Empregos</li>
+          <li class="li-footer">For the Record</li>
+        </ul>
+        <ul class="ul-footer">
+          <p class="p-footer">Comunidades</p>
+          <li class="li-footer">Para Artistas</li>
+          <li class="li-footer">Desenvolvedores</li>
+          <li class="li-footer">Publicidade</li>
+          <li class="li-footer">Investidores</li>
+          <li class="li-footer">Fornecedores</li>
+        </ul>
+        <ul class="ul-footer">
+          <p class="p-footer">Link úteis</p>
+          <li class="li-footer">Suporte</li>
+          <li class="li-footer">Player da Web</li>
+          <li class="li-footer">Aplicativo móvel grátis</li>
+        </ul>
+        <div class="flex mt-10">
+          <i class="social-medias fab fa-instagram"></i>
+          <i class="social-medias fab fa-twitter"></i>
+          <i class="social-medias fab fa-facebook-f"></i>
+        </div>
+      </div>
+
+      <div class="flex items-end justify-between w-3/5 pt-12 m-auto">
+        <ul class="flex text-xs font-bold text-p-footer">
+          <li class="li-info">Legal</li>
+          <li class="li-info">Centro de Privacidade</li>
+          <li class="li-info">Política de privacidade</li>
+          <li class="li-info">Cookies</li>
+          <li class="li-info">Sobre anúncios</li>
+        </ul>
+        <div>
+          <div class="flex items-center justify-end mb-3">
+            <p
+              class="text-sm transition-all duration-100 ease-in-out cursor-pointer hover:text-hoverTextNav text-p-footer"
+            >
+              Brasil
+            </p>
+            <img
+              class="inline-block w-auto ml-3 max-h-5"
+              src="../images/brazil.png"
+              alt="Bandeira do brasil"
+            />
+          </div>
+          <p class="text-sm text-p-footer">&copy; 2020 Spotify AB</p>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

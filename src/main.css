@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap");
+
+@tailwind base;
+
+.li-main {
+  @apply px-5 py-0 text-base font-semibold transition-all duration-100 ease-in-out cursor-pointer hover:text-hoverTextNav;
+}
+
+.logo {
+  @apply w-auto h-10 cursor-pointer;
+}
+
+#showcase {
+  background: url("../public/images/banner.svg") center center/cover;
+  background-color: rgba(0, 0, 0, 0.6);
+  background-blend-mode: color;
+}
+
+.ul-footer {
+  @apply mx-10 my-0;
+}
+
+.li-footer {
+  @apply mx-0 my-6 cursor-pointer hover:text-hoverTextNav;
+}
+
+.li-info {
+  @apply mx-3 my-0 transition-all duration-100 ease-in-out cursor-pointer hover:text-hoverTextNav;
+}
+
+.p-footer {
+  @apply text-sm font-bold uppercase text-p-footer;
+}
+
+.social-medias {
+  @apply mx-6 my-0 text-3xl cursor-pointer hover:text-hoverTextNav;
+}
+
+@tailwind components;
+@tailwind utilities;
