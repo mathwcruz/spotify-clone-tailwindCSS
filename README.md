@@ -8,9 +8,9 @@
 
 <br>
 
-##  **<p> <h2  align="center"> Aplicação front end 📟 👨‍💻 </h2> </p>**
+##  **<h2  align="center"> Aplicação front end 📟 👨‍💻 </h2>**
 
-## <p> <h2 align="center">Um clone da landing page do [Sporify](https://www.spotify.com/br/) utilizando [TailwindCSS](https://tailwindcss.com/docs)</h2> </p>
+## <p> <h2 align="center">Um clone da landing page do [Sportify](https://www.spotify.com/br/) utilizando [TailwindCSS](https://tailwindcss.com/docs)</h2> </p>
 
 # **Site oficial do Spotify** 💻
 
