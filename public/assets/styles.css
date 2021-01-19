@@ -1,5 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap");
 
+@import "../public/assets/background-image.css";
+
 /*! modern-normalize v1.0.0 | MIT License | https://github.com/sindresorhus/modern-normalize */
 
 /*
@@ -576,12 +578,6 @@ video {
   cursor: pointer;
   height: 2.5rem;
   width: auto;
-}
-
-#showcase {
-  background: url("../public/images/banner.svg") center center/cover;
-  background-color: rgba(0, 0, 0, 0.6);
-  background-blend-mode: color;
 }
 
 .ul-footer {
