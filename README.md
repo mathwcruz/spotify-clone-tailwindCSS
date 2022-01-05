@@ -31,7 +31,7 @@
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html5"  width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="70" height="70"/>
-<img src="https://tailwindcss.com/_next/static/media/twitter-square.daf77586b35e90319725e742f6e069f9.jpg" alt="tailwindcss" width="70" height="70"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="70" height="70"/>
 </p>
 
  ## **<p align="center">Iniciando a caminhada para poder participar da maratona nesse mundo da programação 🏃‍</p>**
