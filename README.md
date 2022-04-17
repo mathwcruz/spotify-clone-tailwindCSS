@@ -8,9 +8,9 @@
 
 <br>
 
-##  **<h2  align="center">Front end application 📟 👨‍💻 </h2>**
+<h2  align="center">Front end application 📟 👨‍💻 </h2>
 
-## <p> <h2 align="center">A clone of the [Spotify](https://www.spotify.com/br/) landing page using [TailwindCSS](https://tailwindcss.com/docs)</h2></p>
+<h3 align="center">A clone of the [Spotify](https://www.spotify.com/br/) landing page using [TailwindCSS](https://tailwindcss.com/docs)</h3>
 
 # **Spotify official website** 💻
 
@@ -34,6 +34,6 @@
 <img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/tailwindcss_icon.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvdGFpbHdpbmRjc3NfaWNvbi5zdmciLCJpYXQiOjE2NDYyNDY0MTAsImV4cCI6MTk2MTYwNjQxMH0.ElBboMemMpkFgA1fiWdFxTauOOg1_Ps-elwjCS18UjU" alt="tailwindcss" width="70" height="70"/>
 </p>
 
- ## **<p align="center">Starting the walk to be able to participate in the marathon in this programming world 🏃‍</p>**
+<p align="center">Starting the walk to be able to participate in the marathon in this programming world 🏃‍</p>
 
- ### <p> <h2 align="center">Another application made by Matheus da Cruz 👨‍💻 </h2> </p>
+<h2 align="center">Another application developed by Matheus da Cruz 👨‍💻 </h2>
