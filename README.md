@@ -13,13 +13,13 @@
 # **Spotify official website** 💻
 
 <p align="center">
-  <img src="./github/spotify-oficial.gif" width="1400px"/>
+  <img src="./github/spotify-oficial.gif" width="100%"/>
 </p>
 
 # **Web Application - Clone** 💻
 
 <p align="center">
-  <img src="./github/spotify-clone.gif" width="1400px"/>
+  <img src="./github/spotify-clone.gif" width="100%"/>
 </p>
 
 ## 🚀 Technologies used:
